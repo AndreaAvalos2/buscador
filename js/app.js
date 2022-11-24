@@ -1,3 +1,4 @@
+
 //variables 
 
 const marca = document.querySelector('#marca')
@@ -223,6 +224,5 @@ function filtrarpuertas(auto)
      }
      return auto;
   }
-
 
 
